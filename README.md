@@ -1,4 +1,4 @@
-# on-premises-mssql-agent
+# Devaten On-Premises MSSQL Agent
 
 ## How to Install 
 
