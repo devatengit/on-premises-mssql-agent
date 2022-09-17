@@ -7,7 +7,7 @@ To run the On-Premise MSSQL Agent Docker Compose File locally, you must have Git
 1. Firstly Clone the Docker Compose file from Github using -
 
 ```
-https://github.com/devatengit/on-premises-mssql-agent.git
+git clone https://github.com/devatengit/on-premises-mssql-agent.git
 ``` 
 ## Note:
 
